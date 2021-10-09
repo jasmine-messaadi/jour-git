@@ -1,0 +1,19 @@
+table {
+    border: medium solid #6495ed;
+    border-collapse: collapse;
+    width: 50%;
+    }
+
+td {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border: thin solid #6495ed;
+    width: 50%;
+    padding: 5px;
+    text-align:unset;
+    background-color: #ffffff;
+    }
+th{
+  font-family: monospace;
+  background-color: teal;
+}
+   
